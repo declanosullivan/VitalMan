@@ -1,11 +1,11 @@
-## Vidalista (Talaffadil)
+# Vidalista (Talaffadil)
 1. 80mg
 2. 40mg
 3. 20mg (Out of Stock)
 
-## Vilitra (Vardenfwnil)
+# Vilitra (Vardenfwnil)
 1. 40mg (new)
 
-## Cenfore (Talaffadil)
+# Cenfore (Talaffadil)
 1. 100mg (strong)
 2. 200mg (extra strong
