@@ -1,6 +1,6 @@
 Here's the updated table with actual images for each dosage:
 
-    | Product            | Dosage | Image                                               | Notes               |
+|  QTY  | Product            | Dosage | Image                                               | Notes               |
     |--------------------|--------|-----------------------------------------------------|---------------------|
 |5| **Vidalista (Tadalafil)** | 80mg   | ![80mg](https://www.alldaygeneric.com/wp-content/uploads/2017/02/vidalista-80mg.jpg)   |                     |
 |4|                    | 40mg   | ![40mg](https://www.alldaygeneric.com/wp-content/uploads/2017/02/vidalista-40mg.jpg)   |                     |
